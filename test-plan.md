@@ -6,8 +6,6 @@ kriterlerini tanımlar. Kod yazımına başlanmadan önce hazırlanmıştır.
 Hazırlayan: [PM İsmi]  
 Rol: Project Manager  
 Tarih: 22.04.2026  
-Durum: Taslak (İncelemeye Hazır)
-
 ---
 
 ## 1. Test Amacı ve Kapsamı
@@ -135,6 +133,8 @@ ileriki sprintlere planlanmıştır:
 | Sprint 1 | 15 | 15 | 0 | 93 |
 
 ---
+<img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/d2f020cf-355c-4f5e-bf89-13942f864008" />
+<img width="1214" height="302" alt="image" src="https://github.com/user-attachments/assets/5f05381b-e6e1-47b1-8493-1c2cda14d5db" />
 
 
 ## 9. Sorumluluklar
