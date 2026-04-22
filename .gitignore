@@ -1,0 +1,18 @@
+# Виртуальное окружение — у каждого своё, не нужно в репо
+venv/
+.venv/
+
+# Файлы PyCharm — личные настройки редактора
+.idea/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Coverage файлы
+.coverage
+htmlcov/
+
+# Системные файлы Mac
+.DS_Store
