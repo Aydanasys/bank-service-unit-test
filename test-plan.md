@@ -132,9 +132,10 @@ ileriki sprintlere planlanmıştır:
 
 | Hafta | Toplam Test | Passed | Failed | Coverage |
 |---|---|---|---|---|
-| Sprint 1 | — | — | — | — |
+| Sprint 1 | 15 | 15 | 0 | 93 |
 
 ---
+
 
 ## 9. Sorumluluklar
 
