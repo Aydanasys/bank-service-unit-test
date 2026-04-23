@@ -159,6 +159,8 @@ hızlı, izole ve güvenilir.
 Gerçek bir nesnenin davranışını taklit eden sahte nesnedir.
 Gerçek DB'ye bağlanmadan, `db.save()` çağrısının yapılıp yapılmadığını
 kontrol edebilirsin.
+> 🎬 Gerçek hayattan analoji: MagicMock bir dublör gibi. Filmde tehlikeli sahnelerde asıl oyuncu yerine dublör kullanırsın.
+> Seyirci fark etmez — ama sahne çekilir ve biter.
 
 ```python
 mock_db = MagicMock()                      # sahte veritabanı
