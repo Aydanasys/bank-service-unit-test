@@ -3,7 +3,7 @@
 Bu doküman, bank-service-unit-test projesinin test stratejisini ve kabul
 kriterlerini tanımlar. Kod yazımına başlanmadan önce hazırlanmıştır.
 
-Hazırlayan: [PM İsmi]  
+Hazırlayan: Aydana Abdimamat kizi  
 Rol: Project Manager  
 Tarih: 22.04.2026  
 ---
