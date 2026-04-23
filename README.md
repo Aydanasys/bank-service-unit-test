@@ -62,20 +62,6 @@ doğru çalışıp çalışmadığını kontrol eden otomatik testtir.
 - Hataları production'a çıkmadan önce yakalarısın
 - Kod daha okunabilir ve bakımı kolay hale gelir
 
-### Bir unit testin anatomisi — AAA Pattern:
-
-```python
-def test_deposit_increases_balance(account):
-    # Arrange — test verisini hazırla
-    account = BankAccount(owner="Alice", initial_balance=1000)
-
-    # Act — fonksiyonu çalıştır
-    account.deposit(500)
-
-    # Assert — sonucu doğrula
-    assert account.get_balance() == 1500
-```
-
 ---
 
 ## 2. SDLC'deki Yeri
@@ -113,6 +99,22 @@ Her test senaryosu bir amaca hizmet eder:
 Gerçek kullanıcılar beklenmedik şeyler yapar:
 sıfır girer, negatif değer girer, dondurulmuş hesaba işlem yapmaya çalışır.
 Bunları test etmezsen bu hatalar production'da ortaya çıkar.
+
+---
+
+### Bir unit testin anatomisi — AAA Pattern:
+
+```python
+def test_deposit_increases_balance(account):
+    # Arrange — test verisini hazırla
+    account = BankAccount(owner="Alice", initial_balance=1000)
+
+    # Act — fonksiyonu çalıştır
+    account.deposit(500)
+
+    # Assert — sonucu doğrula
+    assert account.get_balance() == 1500
+```
 
 ---
 
