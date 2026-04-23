@@ -201,7 +201,7 @@ pytest test_bank_account.py --cov=bank_account --cov-report=term-missing
 ```
 Name              Stmts   Miss  Cover   Missing
 -----------------------------------------------
-bank_account.py      45      9    93%   52, 53, 67-69
+bank_account.py      45      9    80%   52, 53, 67-69
 ```
 
 | Sütun | Anlamı |
